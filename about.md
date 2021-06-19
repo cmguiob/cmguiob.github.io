@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-I am an environmental geologist focused on soil sciences and an amateur data scientist. 
-I love analysing environmental data -actually, many types of data!- to draw practical insights. I do most of my work with R and Python.
+This is how I invest most of my time: data science, environmental geology (mostly soil sciences) and cartooning.
+I love analysing data -of many types and sources!- to draw practical insights. I do most of my work with R and Python.
