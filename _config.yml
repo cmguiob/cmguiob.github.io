@@ -14,3 +14,22 @@ subtitle                 : "My personal web"
 name                     : "Carlos M. Guío"
 description              : "Data science and environmental stuff"
 url                      :  https://cmguiob.github.io
+
+# Site Author
+author:
+  name             : "Carlos M. Guio"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Environmental geologist, data scientist"
+  location         : "Bogotá | Colombia"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "cm.guiob@email.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cmguiob"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/carlos-guio-blanco/"
+
