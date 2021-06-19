@@ -1,12 +1,12 @@
 # main links
 main:
+  - title: "ABOUT"
+    url: https://cmguiob.github.io/about/
   - title: "CV"
-    url: https://cmguiob.github.io/cv/
-  - title: "About"
-    url: https:/cmguiob.github.io/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: https:/cmguiob.github.io/cv/
+  - title: "BLOG"
+    url: https:/cmguiob.github.io/blog/
+  - title: "RESEARCH"
+    url: https:/cmguiob.github.io/research/
+  - title: "MISCELLANEOUS"
+    url: https:/cmguiob.github.io/misc/
